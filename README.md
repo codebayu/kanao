@@ -22,11 +22,11 @@
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
 2. Search for `Kanao`
 3. Click **Install** to install it
-4. Go to `File > Preferences > Color Theme > Kanao Theme`
+4. Go to `Preferences > Color Theme > Kanao Theme`
 
 ## Features
 
-- Pastel and matcha inspired color theme.
+- Theme: Default, Pastel, and Matcha.
 - Pleasant and easy on the eyes.
 - Enhances your coding experience.
 

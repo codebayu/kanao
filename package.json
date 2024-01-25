@@ -31,6 +31,11 @@
         "label": "Kanao Pastel",
         "uiTheme": "hc-light",
         "path": "./themes/Kanao-pastel-color-theme.json"
+      },
+      {
+        "label": "Kanao Matcha",
+        "uiTheme": "hc-light",
+        "path": "./themes/Kanao-matcha-color-theme.json"
       }
     ]
   },
@@ -38,5 +43,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/Bayusetiawan45/kanao"
-  }
+  },
+  "homepage": "https://kanao-theme.netlify.app"
 }
