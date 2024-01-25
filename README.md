@@ -12,7 +12,7 @@
 <br />
 
 <div align="center" width="100%">
-  <img width="800" alt="kanao-preview2" src="https://github.com/Bayusetiawan45/kanao/assets/99315255/a4e1a7ff-8971-4f5d-9f1d-ed3357f8468b">
+ <img width="800" alt="kanao-preview2" src="https://github.com/Bayusetiawan45/kanao/assets/99315255/dd12ff7a-bfab-4bb6-ab10-ee54fa281ca9">
 </div>
 
 <br />
