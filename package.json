@@ -2,8 +2,9 @@
   "name": "kanao",
   "displayName": "Kanao",
   "description": "Kanao Theme! A pastel and matcha inspired color theme for Visual Studio Code",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "BayuSetiawan",
+  "icon": "assets/kanao.png",
   "engines": {
     "vscode": "^1.85.0"
   },
