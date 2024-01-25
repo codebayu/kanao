@@ -1,0 +1,36 @@
+{
+  "name": "kanao",
+  "displayName": "Kanao",
+  "description": "Kanao Theme! A pastel and matcha inspired color theme for Visual Studio Code",
+  "version": "1.0.0",
+  "publisher": "BayuSetiawan",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "kanao",
+    "theme",
+    "contrast",
+    "dark",
+    "pastel",
+    "matcha",
+    "calm"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Kanao",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Kanao-color-theme.json"
+      }
+    ]
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bayusetiawan45/kanao"
+  }
+}
