@@ -26,6 +26,11 @@
         "label": "Kanao",
         "uiTheme": "vs-dark",
         "path": "./themes/Kanao-color-theme.json"
+      },
+      {
+        "label": "Kanao Pastel",
+        "uiTheme": "hc-light",
+        "path": "./themes/Kanao-pastel-color-theme.json"
       }
     ]
   },
