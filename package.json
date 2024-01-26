@@ -18,7 +18,8 @@
     "dark",
     "pastel",
     "matcha",
-    "calm"
+    "calm",
+    "neon"
   ],
   "contributes": {
     "themes": [
@@ -36,6 +37,11 @@
         "label": "Kanao Matcha",
         "uiTheme": "hc-light",
         "path": "./themes/Kanao-matcha-color-theme.json"
+      },
+      {
+        "label": "Kanao Neon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Kanao-neon-color-theme.json"
       }
     ]
   },

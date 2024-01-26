@@ -26,7 +26,7 @@
 
 ## Features
 
-- Theme: Default, Pastel, and Matcha.
+- Theme: Default, Pastel, Matcha, and Neon.
 - Pleasant and easy on the eyes.
 - Enhances your coding experience.
 
