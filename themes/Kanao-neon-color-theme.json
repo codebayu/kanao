@@ -42,18 +42,18 @@
     "editorBracketMatch.background": "#191919",
     "editorBracketMatch.border": "#443737",
     "editorBracketHighlight.foreground1": "#FFD369",
-    "editorBracketHighlight.foreground2": "#B06161",
+    "editorBracketHighlight.foreground2": "#b145cf",
     "editorBracketHighlight.foreground3": "#F5E8C7",
     "editorBracketHighlight.foreground4": "#F5E8C7",
     "editorBracketHighlight.foreground5": "#EEEEEE",
-    "editorBracketHighlight.foreground6": "#212121",
+    "editorBracketHighlight.foreground6": "#58ecaf",
     "editorBracketHighlight.unexpectedBracket.foreground": "#FF5D62",
     "editorBracketPairGuide.activeBackground1": "#FFD369",
-    "editorBracketPairGuide.activeBackground2": "#B06161",
+    "editorBracketPairGuide.activeBackground2": "#b145cf",
     "editorBracketPairGuide.activeBackground3": "#F5E8C7",
     "editorBracketPairGuide.activeBackground4": "#F5E8C7",
     "editorBracketPairGuide.activeBackground5": "#EEEEEE",
-    "editorBracketPairGuide.activeBackground6": "#212121",
+    "editorBracketPairGuide.activeBackground6": "#58ecaf",
     "editorCursor.background": "#F5E8C7",
     "editorCursor.foreground": "#F5E8C7",
     "editorError.foreground": "#E82424",
@@ -177,7 +177,7 @@
       "name": "Colors",
       "scope": ["constant.other.color"],
       "settings": {
-        "foreground": "#B06161"
+        "foreground": "#FFFC9B"
       }
     },
     {
@@ -231,7 +231,7 @@
       "name": "ini file definition",
       "scope": ["keyword.other.definition.ini"],
       "settings": {
-        "foreground": "#B06161"
+        "foreground": "#FFFC9B"
       }
     },
     {
@@ -298,7 +298,7 @@
       "name": "Macto",
       "scope": ["entity.name.function.macro"],
       "settings": {
-        "foreground": "#B06161"
+        "foreground": "#FFFC9B"
       }
     },
     {
@@ -319,7 +319,7 @@
       "name": "String Link",
       "scope": ["string.other.link"],
       "settings": {
-        "foreground": "#B06161"
+        "foreground": "#FFFC9B"
       }
     },
     {
@@ -339,7 +339,7 @@
       "name": "Boolean",
       "scope": ["constant.language.boolean"],
       "settings": {
-        "foreground": "#B06161"
+        "foreground": "#FFFC9B"
       }
     },
     {
@@ -581,7 +581,7 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#B06161"
+        "foreground": "#FFFC9B"
       }
     },
     {
@@ -599,7 +599,7 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#B06161"
+        "foreground": "#FFFC9B"
       }
     },
     {
@@ -731,7 +731,7 @@
       "name": "Markdown - Link",
       "scope": ["string.other.link.title.markdown"],
       "settings": {
-        "foreground": "#B06161"
+        "foreground": "#FFFC9B"
       }
     },
     {
@@ -812,10 +812,10 @@
     "operator": "#C0A36E",
     "parameter.declaration": "#EEEEEE",
     "parameter.definition": "#EEEEEE",
-    "variable.readonly": "#B06161",
+    "variable.readonly": "#FFFC9B",
     "variable.readonly.local": "#F5E8C7",
     "variable.readonly.defaultLibrary": "#7FB4CA",
-    "macro": "#B06161",
+    "macro": "#FFFC9B",
     "keyword.controlFlow": {
       "foreground": "#FFD369",
       "fontStyle": "bold"

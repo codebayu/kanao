@@ -58,7 +58,7 @@
     "editorError.foreground": "#E82424",
     "editorGroup.border": "#E1F0DA",
     "editorGroupHeader.tabsBackground": "#E1F0DA",
-    "editorGroup.dropBackground": "#7EAA9260",
+    "editorGroup.dropBackground": "#5C898460",
     "editorHoverWidget.background": "#E1F0DA",
     "editorHoverWidget.border": "#D4E7C5",
     "editorIndentGuide.activeBackground1": "#99BC85",
@@ -245,7 +245,7 @@
       "name": "Identifiers",
       "scope": ["keyword.other.unit", "keyword.operator"],
       "settings": {
-        "foreground": "#C0A36E"
+        "foreground": "#665A48"
       }
     },
     {
@@ -362,7 +362,7 @@
         "markup.inline.raw.string"
       ],
       "settings": {
-        "foreground": "#7EAA92"
+        "foreground": "#5C8984"
       }
     },
     {
@@ -805,10 +805,10 @@
   "semanticTokenColors": {
     "parameter": "#638889",
     "variable": "#638889",
-    "arithmetic": "#C0A36E",
-    "method": "#638889",
-    "function": "#638889",
-    "operator": "#C0A36E",
+    "arithmetic": "#665A48",
+    "method": "#a93b04",
+    "function": "#116A7B",
+    "operator": "#665A48",
     "parameter.declaration": "#65647C",
     "parameter.definition": "#65647C",
     "variable.readonly": "#B06161",
